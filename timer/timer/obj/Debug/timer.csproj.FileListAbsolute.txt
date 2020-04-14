@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\JavaScript.net\timer\timer\bin\timer.dll.config
+C:\Users\asus\Desktop\JavaScript.net\timer\timer\bin\timer.dll
+C:\Users\asus\Desktop\JavaScript.net\timer\timer\bin\timer.pdb
+C:\Users\asus\Desktop\JavaScript.net\timer\timer\bin\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\JavaScript.net\timer\timer\obj\Debug\timer.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\JavaScript.net\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\JavaScript.net\timer\timer\obj\Debug\timer.csproj.CopyComplete
+C:\Users\asus\Desktop\JavaScript.net\timer\timer\obj\Debug\timer.dll
+C:\Users\asus\Desktop\JavaScript.net\timer\timer\obj\Debug\timer.pdb
